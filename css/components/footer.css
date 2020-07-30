@@ -1,0 +1,28 @@
+.footer {
+  width: 100vw;
+  text-align: center;
+  color: var(--main-blue);
+  background-color: var(--main-pink);
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+a {
+  color: var(--main-blue); 
+  text-decoration: none;
+  transition: 400ms;
+  font-size: 20px;
+  padding: 1em;
+}
+
+a:hover {
+  color: var(--main-red);
+}
