@@ -4,6 +4,8 @@
   color: var(--main-blue);
   background-color: var(--main-pink);
   margin: 0 auto !important;
+  position: fixed;
+  bottom: 0px;
 }
 
 .list-inline {
@@ -25,5 +27,5 @@ a {
 }
 
 a:hover {
-  color: var(--main-red);
+  color: var(--main-gray);
 }
