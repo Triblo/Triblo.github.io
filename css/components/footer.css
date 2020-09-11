@@ -3,6 +3,7 @@
   text-align: center;
   color: var(--main-blue);
   background-color: var(--main-pink);
+  margin: 0 auto !important;
 }
 
 .list-inline {
