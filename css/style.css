@@ -32,4 +32,13 @@ a {
   text-decoration: none;
 }
 
+.text-center {
+  width: 100vw;
+  margin: 0 auto;
+}
+
+.text-center h3 {
+  text-align: center;
+}
+
 /* Custom design below! */

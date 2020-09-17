@@ -99,3 +99,11 @@
   margin-right: 2em;
   font-weight: 700;
 }
+
+#bottom-margin-lg {
+  margin-bottom: 80px;
+}
+
+.border-bottom {
+  border-bottom: 5px solid var(--main-blue);
+}

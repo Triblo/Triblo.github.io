@@ -18,5 +18,5 @@
 }
 
 .banner-container p {
-  color: var(main-pink);
+  color: var(--main-pink);
 }
