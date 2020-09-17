@@ -103,3 +103,7 @@
 #bottom-margin-lg {
   margin-bottom: 80px;
 }
+
+.border-bottom {
+  border-bottom: 5px solid var(--main-blue);
+}
