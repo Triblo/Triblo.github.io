@@ -13,17 +13,25 @@
   padding-left: 0px;
 }
 
+.list-inline {
+margin: 0 auto;
+}
+
+.margin-sm {
+  margin: 5px auto;
+}
+
 .list-inline li {
   display: inline-block;
-  padding: 0px 20px;
+  padding: 0px 5px;
 }
 
 a {
   color: var(--main-blue); 
   text-decoration: none;
   transition: 400ms;
-  font-size: 20px;
-  padding: 1em;
+  font-size: 18px;
+  padding: 0px;
 }
 
 a:hover {
