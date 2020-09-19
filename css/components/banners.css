@@ -15,6 +15,7 @@
   border-radius: 35px;
   background-color: rgba(0,0,0, 0.5);
   padding: 2em;
+  box-shadow: 0 0 5px var(--main-gray);
 }
 
 .banner-container p {
